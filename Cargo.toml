@@ -1,0 +1,8 @@
+[package]
+name = "http-macros"
+version = "0.1.0"
+authors = ["Carl Lerche <me@carllerche.com>"]
+edition = "2018"
+
+[dependencies]
+http = "0.1.17"
